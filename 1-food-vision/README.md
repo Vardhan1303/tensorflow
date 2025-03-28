@@ -185,9 +185,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](https://gi
 
 ## 🙏 Acknowledgements
 
-💡 **Andrei Neagoie** & **Daniel Bourke** for the **Zero to Mastery** TensorFlow course.  
-🍽️ Food-101 dataset creators: Lukas Bossard, Matthieu Guillaumin, & Luc Van Gool.
-🚀 TensorFlow & TensorFlow Datasets teams for providing great tools & datasets.  
-🌟 Open-source contributors for their continued support & inspiration.  
+- 💡 **Andrei Neagoie** & **Daniel Bourke** for the **Zero to Mastery** TensorFlow course.  
+- 🍽️ Food-101 dataset creators: Lukas Bossard, Matthieu Guillaumin, & Luc Van Gool.
+- 🚀 TensorFlow & TensorFlow Datasets teams for providing great tools & datasets.  
+- 🌟 Open-source contributors for their continued support & inspiration.  
 
 🔥 **Happy Coding!** 🚀🍔
