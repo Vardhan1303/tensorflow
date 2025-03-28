@@ -12,7 +12,7 @@ This repository contains TensorFlow projects I completed during the Udemy course
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/tensorflow.git
+git clone https://github.com/Vardhan1303/tensorflow.git
 
 # Change into the repository directory
 cd tensorflow
@@ -20,11 +20,11 @@ cd tensorflow
 
 ## Requirements
 
-- Python 3.7 or higher
+- Python 3.10 or earlier
 
 - TensorFlow
 
-- Other required libraries can be installed via a requirements file of individual projects
+- Additional libraries can be installed through a requirements file specific to each project
 
 **License**
 
