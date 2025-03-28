@@ -49,9 +49,26 @@ Before running the project, ensure you have the following installed:
 - 🐍 **Python 3.10 or earlier**
 - 🤖 **TensorFlow 2.8.0**
 - 📦 **TensorFlow Datasets (tfds)**
-- 📌 **matplotlib**
+- 📌 **matplotlib, scikit-learn and opencv-python**
 
 ---
+
+## 📂 Dataset: Food-101 🍛
+The **Food-101** dataset is a large-scale food image dataset introduced by **Lukas Bossard, Matthieu Guillaumin, and Luc Van Gool**.
+
+### 📥 Download Food-101 Dataset
+To download the dataset, run the following commands in your terminal:
+
+```bash
+wget http://data.vision.ee.ethz.ch/cvl/food-101.tar.gz
+tar -xvzf food-101.tar.gz
+```
+
+### Alternatively, download it manually from the official sources:
+
+🔗 [https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/](Food-101 Dataset Official Page) 
+
+🔗 [https://www.kaggle.com/datasets/kmader/food41](Food-101 on Kaggle) 
 
 ## 🛠️ Usage
 
@@ -162,14 +179,15 @@ print(results)
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. See the [tensorflow/LICENSE](LICENSE) file for more details.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
 ## 🙏 Acknowledgements
 
 💡 **Andrei Neagoie** & **Daniel Bourke** for the **Zero to Mastery** TensorFlow course.  
-💡 TensorFlow & TensorFlow Datasets teams for providing great tools & datasets.  
-💡 Open-source contributors for their continued support & inspiration.  
+🍽️ Food-101 dataset creators: Lukas Bossard, Matthieu Guillaumin, & Luc Van Gool.
+🚀 TensorFlow & TensorFlow Datasets teams for providing great tools & datasets.  
+🌟 Open-source contributors for their continued support & inspiration.  
 
-🌟 **Happy Coding!** 🚀
+🔥 **Happy Coding!** 🚀🍔
