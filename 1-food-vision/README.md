@@ -66,9 +66,9 @@ tar -xvzf food-101.tar.gz
 
 ### Alternatively, download it manually from the official sources:
 
-🔗 [https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/](Food-101 Dataset Official Page) 
+- 🔗 [Food-101 Dataset Official Page](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/)
 
-🔗 [https://www.kaggle.com/datasets/kmader/food41](Food-101 on Kaggle) 
+- 🔗 [Food-101 on Kaggle](https://www.kaggle.com/datasets/kmader/food41)
 
 ## 🛠️ Usage
 
@@ -179,7 +179,7 @@ print(results)
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the **MIT License**. See the [LICENSE](tensorflow/LICENSE) file for more details.
 
 ---
 
