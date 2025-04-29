@@ -2,7 +2,7 @@
 
 This repository contains TensorFlow projects I completed during the Udemy course **"TensorFlow for Deep Learning Bootcamp"** by **Andrei Neagoie and Daniel Bourke (Zero to Mastery)**. These projects showcase various deep learning applications, including model training and fine-tuning experiments.
 
-## Projects Overview
+## Projects Overview:
 
 - **Food Vision Project**: An image classification model using TensorFlow and EfficientNetB0.
 
